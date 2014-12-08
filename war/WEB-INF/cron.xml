@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cronentries>
+	<cron>
+		<url>/sit_ed_cs</url>
+		<description>SIT EandD CandS</description>
+		<schedule>every sun,mon,tue,wed,thu,fri 22:30</schedule>
+		<timezone>Asia/Tokyo</timezone>
+
+	</cron>
+</cronentries>
